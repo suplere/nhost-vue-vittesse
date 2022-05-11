@@ -1,0 +1,34 @@
+auth:
+  changePasswordButton: Change Password
+  changePasswordTitle: Change password
+  confirmPassword: Confirm password
+  email: Email
+  forgotPasswordTitle: Forgot password
+  forgotTitle: Forgot password
+  loginButton: Login
+  loginTitle: Login User
+  lostButton: Reset password
+  navLogin: Login
+  navLogout: Logout
+  navRegister: Register
+  password: Password
+  registerButton: Register
+  registerTitle: Registration new user
+button:
+  about: About
+  auth: Auth
+  back: Back
+  go: GO
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+intro:
+  aka: Also known as
+  desc: Opinionated Vite Starter Template
+  dynamic-route: Demo of dynamic route
+  hi: Hi, {name}!
+  whats-your-name: What's your name?
+not-found: Not found
+page:
+  profile:
+    title: Profile

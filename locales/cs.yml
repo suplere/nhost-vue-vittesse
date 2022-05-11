@@ -1,0 +1,34 @@
+auth:
+  changePasswordButton: Změnit heslo
+  changePasswordTitle: Změnit heslo
+  confirmPassword: Potvrďte heslo
+  email: Emailová adresa
+  forgotPasswordTitle: Zapomenté heslo
+  forgotTitle: Zapomenuté heslo
+  loginButton: Přihlášení
+  loginTitle: Přihlášení uživatele
+  lostButton: Obnovit heslo
+  navLogin: Přihlásit se
+  navLogout: Odhlásit se
+  navRegister: Registrovat
+  password: Heslo
+  registerButton: Registrovat
+  registerTitle: Registrace nového uživatele
+button:
+  about: O nás
+  auth: Autentizace
+  back: Zpět
+  go: JDI
+  home: Domů
+  toggle_dark: Přepínač tmavého režimu
+  toggle_langs: Změna jazyku
+intro:
+  aka: jinak známý jako
+  desc: Startovací šablona
+  dynamic-route: Příklad dynamické cesty
+  hi: Ahoj, {name}!
+  whats-your-name: Jaké je tvé jméno?
+not-found: Nenalezeno
+page:
+  profile:
+    title: Profil

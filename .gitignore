@@ -1,0 +1,16 @@
+.DS_Store
+.vite-ssg-dist
+.vite-ssg-temp
+*.local
+dist
+dist-ssr
+node_modules
+.idea/
+*.log
+
+.nhost
+web/node_modules
+functions/node_modules.nhost
+web/node_modules
+node_modules
+functions/node_modules
